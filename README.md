@@ -7,6 +7,7 @@ Este repositório contém um projeto em Java que implementa classes para represe
 - Crie uma classe que representa um produto. A classe deve ter os atributos nome, marca, preço de custo e preço de venda. Deve ter também um método que calcula e retorna o lucro.
 - Crie objetos dessa classe e escreva na tela seus atributos e o valor do lucro.
 - Crie uma classe para representar pessoas. O construtor da classe deve receber como parâmetros o nome completo, altura e a data de nascimento. Os objetos, logo após criados, devem criar automaticamente um e-mail no formato nome.sobrenome@dominio.com.
+- Crie métodos para apresentar os valores no console.
   
 # 📋 Pré-requisitos
 
