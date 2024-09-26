@@ -1,4 +1,4 @@
-PRODUTO
+# PRODUTO
 
 Este repositório contém um projeto em Java que implementa classes para representar um produto e uma pessoa. A classe Produto inclui funcionalidades para calcular o lucro, enquanto a classe Pessoas gera um e-mail automaticamente no formato nome.sobrenome@dominio.com.
 
